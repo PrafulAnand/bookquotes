@@ -1,9 +1,3 @@
-hacktoberfest:
-- .github/workflows/*
-- _tests_/*
-- index.js
-- data/*
-
 # # Add 'repo' label to any root file changes
 repo:
   - "*"
@@ -23,3 +17,9 @@ source:
 # #Add 'data' label to anything changed within data folder
 data:
   - data/*
+
+hacktoberfest:
+- .github/workflows/*
+- _tests_/*
+- index.js
+- data/*
