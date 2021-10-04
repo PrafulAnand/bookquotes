@@ -1,6 +1,6 @@
 ## 🛠️ Contribute
 
-0. Star this repository
+1. Star this repository
 1. Fork this repository
 2. Clone your forked copy of the project.
 
