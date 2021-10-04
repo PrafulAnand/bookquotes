@@ -11,8 +11,8 @@ test:
   - _tests_/*
 
 # Add 'source' label to any change to index.js
-source:
-  - index.js
+# source:
+#   - index.js
 
 #Add 'data' label to anything changed within data folder
 data:
