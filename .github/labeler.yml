@@ -1,6 +1,11 @@
-# # Add 'repo' label to any root file changes
-repo:
-  - "*"
+gitignore:
+  - .gitignore
+  
+markdown:
+  - *.md
+  
+json:
+ - *.json
 
 # # Add 'workflows' label to any change within the 'github/workflows' folder
 workflows:
@@ -23,3 +28,6 @@ hacktoberfest:
 - _tests_/*
 - index.js
 - data/*
+- *.json
+- *.md
+
