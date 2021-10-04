@@ -1,9 +1,5 @@
 # Add 'repo' label to any root file changes
-repo:
-  - "*"
-  - .github/workflows/*
-  - _tests_/*
-  - index.js
+hacktoberfest:
   - data/*
   
 
