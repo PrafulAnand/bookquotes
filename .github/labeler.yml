@@ -1,9 +1,8 @@
 hacktoberfest:
-- "*"
-  _tests_/*
-  index.js
-  .github/workflows/*
-  data/*
+- .github/workflows/*
+- _tests_/*
+- index.js
+- data/*
 
 # # Add 'repo' label to any root file changes
 # repo:
